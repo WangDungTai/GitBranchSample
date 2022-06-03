@@ -7,7 +7,7 @@ public class MainApp {
 		System.out.println("1st Version");
 		Math cMath = new Math();
 		System.out.println();
-		System.out.println(cMath.add(10, 5));
+		System.out.println(cMath.add(120, 5));
 
 	}
 
